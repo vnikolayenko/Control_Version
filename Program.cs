@@ -10,6 +10,7 @@ namespace Control_version
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello");
         }
     }
 }
